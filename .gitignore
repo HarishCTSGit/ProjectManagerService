@@ -4,7 +4,6 @@
 
 /.vs/ProjectManagement/v15/Server/sqlite3
 /bin/Debug
-/packages
 /ProjectManagement.Business/obj/Debug
 /ProjectManagement.Business/bin/Debug
 *.pdb
